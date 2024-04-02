@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T01:25:45.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="egSiZBxv2ELYAlkhYQeS" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-02T01:31:32.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8mWCUcGTNYMU8jugvAFd" version="24.2.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1389" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,6 +46,12 @@
         </mxCell>
         <mxCell id="9B1v1pdBhvSLApPl_Ho6-13" value="/payment" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="485" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9B1v1pdBhvSLApPl_Ho6-19" value="Time Development" style="swimlane;whiteSpace=wrap;html=1;strokeColor=#006658;fontColor=#5C5C5C;fillColor=#21C0A5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="640" width="370" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="9B1v1pdBhvSLApPl_Ho6-21" value="&lt;b&gt;Waktu Untuk Pengerjaan Pembayaran Kurang Lebih 1 bulan&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;" vertex="1" parent="9B1v1pdBhvSLApPl_Ho6-19">
+          <mxGeometry y="85" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
